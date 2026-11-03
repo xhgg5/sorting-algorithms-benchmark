@@ -1,0 +1,21 @@
+Algorithm,Complexity,InputSize,Case,TimeMicroseconds
+Selection Sort,O(N^2),100000,Random,10067450
+Selection Sort,O(N^2),100000,Reverse,6856882
+Selection Sort,O(N^2),100000,Partial (80%),10072538
+Selection Sort,O(N^2),100000,Sorted,10156055
+Insertion Sort,O(N^2),100000,Random,4024945
+Insertion Sort,O(N^2),100000,Reverse,8053711
+Insertion Sort,O(N^2),100000,Partial (80%),50884
+Insertion Sort,O(N^2),100000,Sorted,202
+Bubble Sort,O(N^2),100000,Random,18231843
+Bubble Sort,O(N^2),100000,Reverse,9981927
+Bubble Sort,O(N^2),100000,Partial (80%),3863050
+Bubble Sort,O(N^2),100000,Sorted,299
+Merge Sort,O(N log N),100000,Random,30268
+Merge Sort,O(N log N),100000,Reverse,5216
+Merge Sort,O(N log N),100000,Partial (80%),3344
+Merge Sort,O(N log N),100000,Sorted,608
+Quick Sort,Average O(N log N),100000,Random,10353
+Quick Sort,Average O(N log N),100000,Reverse,30864
+Quick Sort,Average O(N log N),100000,Partial (80%),41589
+Quick Sort,Average O(N log N),100000,Sorted,42358
